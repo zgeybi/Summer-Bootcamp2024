@@ -11,6 +11,12 @@ Welcome to the Python Bootcamp for intermediate students! This 6-week course is 
 - **Week 5**: Integrating all components and adding advanced features.
 - **Week 6**: Final project touches, debugging, and deploying your application.
 
+### GitHub and Version Control
+You will also learn how to:
+- Use GitHub to manage your projects.
+- Collaborate with others using Git and GitHub.
+- Build an attractive and professional GitHub profile to showcase your work.
+
 ### Project: Password Manager Application
 #### Features
 - **User Authentication**: Sign up and log in functionality.
@@ -33,12 +39,6 @@ Welcome to the Python Bootcamp for intermediate students! This 6-week course is 
 
 ### Support
 I will be available to support you throughout the course via text. Feel free to reach out with any questions or for help with your project.
-
-### GitHub and Version Control
-You will also learn how to:
-- Use GitHub to manage your projects.
-- Collaborate with others using Git and GitHub.
-- Build an attractive and professional GitHub profile to showcase your work.
 
 ## Getting Started
 1. **Install Python**: Make sure you have Python 3.8+ installed on your machine.
